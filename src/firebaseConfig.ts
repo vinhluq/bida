@@ -9,8 +9,8 @@ const firebaseConfig = {
   projectId: "bidapro-87005",
   storageBucket: "bidapro-87005.firebasestorage.app",
   messagingSenderId: "223285139352",
-  appId: "1:223285139352:web:2410cbe747a334d5da3ded",
-  measurementId: "G-3BXS3ZRB6Y"
+  appId: "1:223285139352:web:6eac502097de15f0da3ded",
+  measurementId: "G-TKXNPRH4HJ"
 };
 
 // Initialize Firebase
